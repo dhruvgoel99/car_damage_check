@@ -1,0 +1,11 @@
+fastapi[all]
+pillow
+python-multipart
+numpy
+tensorflow-cpu
+pydantic
+typing
+tensorflow
+tflite-support
+opencv-python
+uvicorn
